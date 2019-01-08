@@ -12,9 +12,10 @@ So far I have produces 78 icons, and there are more in the making.
 
 As per this new year's resolution of mine to start publishing my works I try to do so at least once a week.
 
-And so today I am proudly presenting the first part of the expansion pack - [the round icons, the "Browser"](part1). Go check them out, and let me know what you think.
+And so today I am proudly presenting the first part of the expansion pack - [the round icons, the "Browser"](robertgeifman.github.io/MRIExpansionPack/part1). 
+Go check them out, and let me know what you think.
 
-They are not entirely flawless, as I gained more experience I see how the early icons can be improved. 
+They are not flawless, as I gained more experience I see how the early icons can be improved. 
 But as a "recovering perfectionist" I think they are good enough to see the light of the day.
 
-[MRI Expansion Pack - Part 1](part1)
+[MRI Expansion Pack - Part 1](robertgeifman.github.io/MRIExpansionPack/part1)
