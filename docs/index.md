@@ -4,7 +4,7 @@ In December 2016 Ollin Boer Bohan ([github](https://github.com/madebyollin), [dr
 
 Being a sucker for beautiful icons and I love my computer looking great and vibrant, with vivid colors. I couldn't take it seeing my dock and the dashboard half-customized, and half-... less beautiful. Let's face it, It's a trend nowadays to make all round icons for everything, even though the guidelines recommend using round shapes for applications that imply browsing through some information, like photo/music/books libraries, internet browsers, and such.
 
-As I had a luxury of not having to work last year due to a heavy work-related burnout, and the part of my brain that used to code was inaccessible I started playing around with Adobe Photoshop (no link needed) I believe, [Pixelmator Pro](https://pixelmator.com/pro), [Sketch](https://sketchapp.com) and [Hue Shifter](https://bergdesign.com/hueshifter). 
+As I had a luxury of not having to work last year due to a heavy work-related burnout, and the part of my brain that used to code was inaccessible I started playing around with Adobe Photoshop (no link needed I believe), [Pixelmator Pro](https://pixelmator.com/pro), [Sketch](https://sketchapp.com) and [Hue Shifter](https://bergdesign.com/hueshifter). 
 
 I think I kinda got the basics and made some templates to produce icons in the style of the original MRI pack.
 
